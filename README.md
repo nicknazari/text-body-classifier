@@ -7,6 +7,6 @@ The user specifies the positive words, negative words, and body to be analyzed i
 ### Use cases:
 - Analyzing tweets
 - Analyzing reddit posts
-- Analyzing any form of social media
+- Analyzing social media in text form
 - Analyzing literature
 - Analyzing newspaper articles
